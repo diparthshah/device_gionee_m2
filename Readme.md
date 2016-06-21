@@ -16,3 +16,5 @@ lunch aosp_m2-userdebug
 ````
 make -j# otapackage 
 ```` 
+
+SCREENSHOTS : https://drive.google.com/folderview?id=0B37fe3Z3QKGORTlzZjJFQ3V4anc&usp=sharing
