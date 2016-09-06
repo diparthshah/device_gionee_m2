@@ -31,8 +31,8 @@ PRODUCT_TAGS += dalvik.gc.type-precise
 PRODUCT_PACKAGES += \
     Launcher3
 
-PRODUCT_PACKAGES += \
-    libxlog
+#PRODUCT_PACKAGES += \
+ #   libxlog
 
 PRODUCT_PACKAGES += \
     lights.mt6582
