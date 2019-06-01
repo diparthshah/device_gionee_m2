@@ -1,8 +1,8 @@
-#Device Configuration For Gionee M2 
+# Device Configuration For Gionee M2 
 
-##Compiling Android Open Source Project [AOSP] 
+## Compiling Android Open Source Project [AOSP] 
 
-###Steps
+### Steps
 
 ````
 source build/envsetup.sh 
